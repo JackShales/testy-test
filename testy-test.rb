@@ -2,4 +2,9 @@
   puts 'This is a test'
 end
 
-puts 'the end'
+puts 'The end'
+puts 'Or is it?'
+
+5.times do
+  puts 'Another test'
+end
